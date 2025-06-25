@@ -4,5 +4,14 @@
   "artist": "Nanako Kishimoto",
   "author": "Nanako Kishimoto",
   "cover": "https://meo.comick.pictures/Jn7YBz-m.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Flowering Garden",
+      "volume": "1",
+      "last_updated": "1750814075",
+      "groups": {
+        "nocturne scans": "/proxy/api/imgur/chapter/fDpJkrg"
+      }
+    }
+  }
 }
