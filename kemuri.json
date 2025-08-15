@@ -12,6 +12,16 @@
       "groups": {
         "nocturne scans": "/proxy/api/imgur/chapter/fDpJkrg"
       }
+    },
+    "2": {
+      "title": "Flickering Light",
+      "volume": "1",
+      "last_updated": "1755221379",
+      "groups": {
+        "nocturne scans": [
+          "https://imgur.com/a/vdXvqth"
+        ]
+      }
     }
   }
 }
